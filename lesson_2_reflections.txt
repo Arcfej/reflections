@@ -17,3 +17,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I only put those files in the staging area, which changes I want to commit at once. And I want to commit only one logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If I want to make some changes which maybe won't work, or when we working in a team and every person working on different functions.
+
