@@ -12,3 +12,8 @@ in the working directory. How? The staging area is the connection between the tw
 is the files the repository tracking. If I make a commit, it saves the staging area 
 into the repository.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I only put those files in the staging area, which changes I want to commit at once. And I want to commit only one logical change.
+
