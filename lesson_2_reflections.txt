@@ -21,3 +21,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 If I want to make some changes which maybe won't work, or when we working in a team and every person working on different functions.
 
+How do the diagrams help you visualize the branch structure?
+
+We can understand concepts better through vision. The branch structure is well visible depicted.
+
