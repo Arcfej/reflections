@@ -6,3 +6,9 @@ Why might you want to always pull changes manually
 rather than having Git automatically stay up-to-date with your remote repository?
 
 The same reason why we want to commit manualy. The remote has to be consistent and understandable by everyone.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is when in an online git we cloud clone a repository. It contains a refference, link to the original repository.
+Clone is a copy of a repository without a reference.
+Branches are a different line of commits. A repository can have multiple branches. A cloning clone all the repository's branches.
