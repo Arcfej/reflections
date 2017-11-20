@@ -12,3 +12,9 @@ Describe the differences between forks, clones, and branches. When would you use
 Fork is when in an online git we cloud clone a repository. It contains a refference, link to the original repository.
 Clone is a copy of a repository without a reference.
 Branches are a different line of commits. A repository can have multiple branches. A cloning clone all the repository's branches.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+In this way we can check if there was a changes on the remote repository since the last update or not.
+
+
